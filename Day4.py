@@ -1,0 +1,6 @@
+print("hello world")
+print(5)
+print("Bye")
+print(17*13)
+print("namaste","India",sep=" ",end=" Bye\n")
+print("Hey")
