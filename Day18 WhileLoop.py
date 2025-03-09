@@ -5,14 +5,14 @@ while i < 3:
     print(i)
     i = i+1
 
-print("Done with a loop")
+print("Done with data Exercise loop")
 
-i = int(input("Enter a number: "))
+i = int(input("Enter data Exercise number: "))
 while i <= 38:
-    i = int(input("Enter a number: "))
+    i = int(input("Enter data Exercise number: "))
     print(i)
 
-print("Done with a loop")
+print("Done with data Exercise loop")
 
 count = 5
 while count > 0:
@@ -32,7 +32,7 @@ else:
 # while(condition)
 
 while True:
-    i = int(input("Enter a number: "))
+    i = int(input("Enter data Exercise number: "))
     print(i)
     if not i > 0:
         break

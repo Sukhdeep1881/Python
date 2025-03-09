@@ -1,4 +1,4 @@
-# importing is a process of loading code of python modules in current script
+# importing is data Exercise process of loading code of python modules in current script
 # so that you can get function of imported module like math function, pandas etc.
 
 # import pandas
@@ -42,7 +42,7 @@ result = m.sqrt(9) * m.pi
 print(result)
 
 
-# for giving a meaningful way to with as to math
+# for giving data Exercise meaningful way to with as to math
 import math as math_builtin_python
 result = math_builtin_python.sqrt(9) * math_builtin_python.pi
 print(result)

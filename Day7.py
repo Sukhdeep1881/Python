@@ -10,7 +10,7 @@ a = 10
 b = 20
 
 print("Addition result of ", a ," and ", b," : ",a+b)
-print("Subtraction result of a and b: ",a-b)
-print("Multiplication result of a and b: ",a*b)
-print("Division result of a and b: ",a/b)
-print("Modulo result of a and b: ",a%b)
+print("Subtraction result of data Exercise and b: ",a-b)
+print("Multiplication result of data Exercise and b: ",a*b)
+print("Division result of data Exercise and b: ",a/b)
+print("Modulo result of data Exercise and b: ",a%b)

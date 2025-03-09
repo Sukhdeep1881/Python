@@ -3,10 +3,10 @@ print("Your age is: ",a)
 
 # conditional operators
 # >,<, >=, <=, ==, !=
-# print(a>18)
-# print(a<=18)
-# print(a==18)
-# print(a!=18)
+# print(data Exercise>18)
+# print(data Exercise<=18)
+# print(data Exercise==18)
+# print(data Exercise!=18)
 
 if a > 18:          # No brackets required like other in c
     print("You can drive") # the space is indented is required to show it comes with if condition

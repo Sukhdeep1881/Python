@@ -1,10 +1,10 @@
 # TypeCasting - Converting One dataType to Other DataType
 a = "1"
 b = "2"
-# print(a+b)
-# a=1
+# print(data Exercise+b)
+# data Exercise=1
 # b=2
-# print(a+b)
+# print(data Exercise+b)
 print(int(a)+int(b))
 
 # Explicit Conversation - Convert by us like force convert as above

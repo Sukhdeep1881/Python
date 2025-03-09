@@ -1,4 +1,4 @@
-a = input("What you want code a word or decode: ")
+a = input("What you want code data Exercise word or decode: ")
 
 if a == "code" or a == "Code":
     c = input("Enter your word: ")

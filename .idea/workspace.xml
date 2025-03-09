@@ -4,76 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a7aeac-1368-4796-95cb-24e67f342833" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11 String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day12 Slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13 StringMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day14 ifelse-elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day15 Time Exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day16 MatchCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day17 ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day18 WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day19 BreakContinue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day20 Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day21 FunctionArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day22 Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day23 Lists Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day24 Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day25 Tuples Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day26 Exercise 2 Sols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day27 Exercise 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day28 F Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day29 DocStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day30 Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day31 Sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day32 Set Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day33 Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day34 Dictionary Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day35 For Loop with else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day36 Exception Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day37 Finally Keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day38 Custom errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day39 Exercise 3 Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day40 Exercise 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day41 ShortHand ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day42 Enumerate Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day43 Virtual Environment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day44 Import Works.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day44_Sukhdeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day45 if name == main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day45_Sukhdeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day46 os Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day47 Exercise 4 Sols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day48 Local Global Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day49 File IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day50 File IO Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day51 File IO seek, tell other functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day52 Lambda Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day53 Map, Filter and Reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day54 is vs ==.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day55 Exercise 5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day56 OOPs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day57 Class and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day58 Constructors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day59 Decorators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day60 Getters and Setters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day61 Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day62 Access Modifiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day63 Exerise 5 Sols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Garbage/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Garbage/oslist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Garbage/rename.py" afterDir="false" />
+    <list default="true" id="88a7aeac-1368-4796-95cb-24e67f342833" name="Changes" comment="It's Completed">
+      <change afterPath="$PROJECT_DIR$/Day64 Exercise 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day65 Static Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day66 Instance vs Class Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day67 Exercise 6 Sols.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day68 Exercise 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day69 Class Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day70 Class Methods As Constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day71 Dir, _dict_, help methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day72 Super Keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day73 Magic or Dunder Methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day13 StringMethods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day13 StringMethods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day14 ifelse-elif.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day14 ifelse-elif.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day16 MatchCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day16 MatchCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day18 WhileLoop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day18 WhileLoop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day21 FunctionArguments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day21 FunctionArguments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day23 Lists Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day23 Lists Methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day24 Tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day24 Tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day27 Exercise 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day27 Exercise 3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day29 DocStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day29 DocStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day38 Custom errors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day38 Custom errors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day40 Exercise 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day40 Exercise 4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day42 Enumerate Function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day42 Enumerate Function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day43 Virtual Environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day43 Virtual Environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day44 Import Works.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day44 Import Works.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day46 os Module.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day46 os Module.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day47 Exercise 4 Sols.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day47 Exercise 4 Sols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day49 File IO.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day49 File IO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day50 File IO Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day50 File IO Methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day52 Lambda Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day52 Lambda Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day53 Map, Filter and Reduce.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day53 Map, Filter and Reduce.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day54 is vs ==.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day54 is vs ==.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day56 OOPs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day56 OOPs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day57 Class and Objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day57 Class and Objects.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day58 Constructors.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day58 Constructors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day59 Decorators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day59 Decorators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day60 Getters and Setters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day60 Getters and Setters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day62 Access Modifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day62 Access Modifiers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Garbage/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Garbage/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +91,18 @@
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sukhdeep1881&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sukhdeep1881/Python&quot;,
+    &quot;accountId&quot;: &quot;a229c855-47d5-437c-8765-27b579b9e41e&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -126,87 +115,95 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Day 1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day 28 F Strings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day11 String.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day13 StringMethods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day14 ifelse-elif.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day15 Time Exercise.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day16 MatchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day17 ForLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day18 WhileLoop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day19 BreakContinue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day20 Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day21 FunctionArguments.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day22 Lists.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day23 Lists Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day24 Tuples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day25 Tuples Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day27 Exercise 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day29 DocStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day30 Recursion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day31 Set Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day31 Sets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day32 Set Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day33 Dictionaries.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day34 Dictionary Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day35 For Loop with else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day36 Exception Handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day37 Finally Keyword.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day38 Custom errors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day40 Exercise 4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day41 ShortHand ifelse.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day42 Enumerate Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day43 Virtual Environment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day44 Import Works.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day44 Sukhdeep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day45 if name == main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day45_Sukhdeep.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day46 os Module.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day47 Exercise 4 Sols.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day48 Local Global Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day49 File IO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day50 File IO Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day51 File IO seek, tell other functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day52 Lambda Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day52.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day53 Map, Filter and Reduce.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day54 is vs ==.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day54.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day55 Exercise 5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day56 OOPs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day57 Class and Objects.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day58 Constructors.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day59 Decorators.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day60 Getters and Setters.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day61 Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day62 Access Modifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Day9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Day 1.executor": "Run",
+    "Python.Day 28 F Strings.executor": "Run",
+    "Python.Day1.executor": "Run",
+    "Python.Day10.executor": "Run",
+    "Python.Day11 String.executor": "Run",
+    "Python.Day12.executor": "Run",
+    "Python.Day13 StringMethods.executor": "Run",
+    "Python.Day14 ifelse-elif.executor": "Run",
+    "Python.Day15 Time Exercise.executor": "Run",
+    "Python.Day16 MatchCase.executor": "Run",
+    "Python.Day17 ForLoop.executor": "Run",
+    "Python.Day18 WhileLoop.executor": "Run",
+    "Python.Day19 BreakContinue.executor": "Run",
+    "Python.Day2.executor": "Run",
+    "Python.Day20 Functions.executor": "Run",
+    "Python.Day21 FunctionArguments.executor": "Run",
+    "Python.Day22 Lists.executor": "Run",
+    "Python.Day23 Lists Methods.executor": "Run",
+    "Python.Day24 Tuples.executor": "Run",
+    "Python.Day25 Tuples Methods.executor": "Run",
+    "Python.Day27 Exercise 3.executor": "Run",
+    "Python.Day29 DocStrings.executor": "Run",
+    "Python.Day3.executor": "Run",
+    "Python.Day30 Recursion.executor": "Run",
+    "Python.Day31 Set Methods.executor": "Run",
+    "Python.Day31 Sets.executor": "Run",
+    "Python.Day32 Set Methods.executor": "Run",
+    "Python.Day33 Dictionaries.executor": "Run",
+    "Python.Day34 Dictionary Methods.executor": "Run",
+    "Python.Day35 For Loop with else.executor": "Run",
+    "Python.Day36 Exception Handling.executor": "Run",
+    "Python.Day37 Finally Keyword.executor": "Run",
+    "Python.Day38 Custom errors.executor": "Run",
+    "Python.Day4.executor": "Run",
+    "Python.Day40 Exercise 4.executor": "Run",
+    "Python.Day41 ShortHand ifelse.executor": "Run",
+    "Python.Day42 Enumerate Function.executor": "Run",
+    "Python.Day43 Virtual Environment.executor": "Run",
+    "Python.Day44 Import Works.executor": "Run",
+    "Python.Day44 Sukhdeep.executor": "Run",
+    "Python.Day45 if name == main.executor": "Run",
+    "Python.Day45_Sukhdeep.executor": "Run",
+    "Python.Day46 os Module.executor": "Run",
+    "Python.Day47 Exercise 4 Sols.executor": "Run",
+    "Python.Day48 Local Global Variables.executor": "Run",
+    "Python.Day49 File IO.executor": "Run",
+    "Python.Day5.executor": "Run",
+    "Python.Day50 File IO Methods.executor": "Run",
+    "Python.Day51 File IO seek, tell other functions.executor": "Run",
+    "Python.Day52 Lambda Functions.executor": "Run",
+    "Python.Day52.executor": "Run",
+    "Python.Day53 Map, Filter and Reduce.executor": "Run",
+    "Python.Day54 is vs ==.executor": "Run",
+    "Python.Day54.executor": "Run",
+    "Python.Day55 Exercise 5.executor": "Run",
+    "Python.Day56 OOPs.executor": "Run",
+    "Python.Day57 Class and Objects.executor": "Run",
+    "Python.Day58 Constructors.executor": "Run",
+    "Python.Day59 Decorators.executor": "Run",
+    "Python.Day6.executor": "Run",
+    "Python.Day60 Getters and Setters.executor": "Run",
+    "Python.Day61 Inheritance.executor": "Run",
+    "Python.Day62 Access Modifiers.executor": "Run",
+    "Python.Day64 Exercise 6.executor": "Run",
+    "Python.Day65 Static Methods.executor": "Run",
+    "Python.Day66 Instance vs Class Variables.executor": "Run",
+    "Python.Day67 Exercise 7.executor": "Run",
+    "Python.Day69 Class Methods.executor": "Run",
+    "Python.Day7.executor": "Run",
+    "Python.Day70 Class Methods As Constructors.executor": "Run",
+    "Python.Day71 Dir, _dict_, help methods.executor": "Run",
+    "Python.Day72 Super Keyword.executor": "Run",
+    "Python.Day9.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="A:\Python" />
@@ -284,8 +281,35 @@
       <workItem from="1740066158780" duration="4000" />
       <workItem from="1740066170017" duration="3000" />
       <workItem from="1740103247604" duration="785000" />
-      <workItem from="1740159885829" duration="342000" />
+      <workItem from="1740159885829" duration="935000" />
+      <workItem from="1740509794461" duration="4740000" />
+      <workItem from="1740940719315" duration="1957000" />
+      <workItem from="1741128637382" duration="13221000" />
+      <workItem from="1741198045303" duration="4243000" />
+      <workItem from="1741281959115" duration="49000" />
+      <workItem from="1741282018153" duration="35000" />
+      <workItem from="1741399896949" duration="879000" />
+      <workItem from="1741453439249" duration="1203000" />
+      <workItem from="1741479071131" duration="3621000" />
+      <workItem from="1741525507500" duration="1698000" />
     </task>
+    <task id="LOCAL-00001" summary="It's Completed">
+      <option name="closed" value="true" />
+      <created>1740160432251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740160432251</updated>
+    </task>
+    <task id="LOCAL-00002" summary="It's Completed">
+      <option name="closed" value="true" />
+      <created>1740160582243</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740160582243</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,6 +338,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="It's Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="It's Completed" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -326,66 +354,74 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$Day21_FunctionArguments.coverage" NAME="Day21 FunctionArguments Coverage Results" MODIFIED="1737663839471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day40_Exercise_4.coverage" NAME="Day40 Exercise 4 Coverage Results" MODIFIED="1738615067989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day21_FunctionArguments.coverage" NAME="Day21 FunctionArguments Coverage Results" MODIFIED="1737663839471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day64_Exercise_6.coverage" NAME="Day64 Exercise 6 Coverage Results" MODIFIED="1740511011274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day22_Lists.coverage" NAME="Day22 Lists Coverage Results" MODIFIED="1737833894447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day54.coverage" NAME="Day54 Coverage Results" MODIFIED="1739398547018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day29_DocStrings.coverage" NAME="Day29 DocStrings Coverage Results" MODIFIED="1738107763087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day45_Sukhdeep.coverage" NAME="Day45_Sukhdeep Coverage Results" MODIFIED="1739032193007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day62_Access_Modifiers.coverage" NAME="Day62 Access Modifiers Coverage Results" MODIFIED="1739991720649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day55_Exercise_5.coverage" NAME="Day55 Exercise 5 Coverage Results" MODIFIED="1739640593062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day55_Exercise_5.coverage" NAME="Day55 Exercise 5 Coverage Results" MODIFIED="1740160772950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day14_ifelse_elif.coverage" NAME="Day14 ifelse-elif Coverage Results" MODIFIED="1737340181478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day34_Dictionary_Methods.coverage" NAME="Day34 Dictionary Methods Coverage Results" MODIFIED="1738154841172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day35_For_Loop_with_else.coverage" NAME="Day35 For Loop with else Coverage Results" MODIFIED="1738254928407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day17_ForLoop.coverage" NAME="Day17 ForLoop Coverage Results" MODIFIED="1737502516012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day20_Functions.coverage" NAME="Day20 Functions Coverage Results" MODIFIED="1737599561898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day36_Exception_Handling.coverage" NAME="Day36 Exception Handling Coverage Results" MODIFIED="1738257026868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day58_Constructors.coverage" NAME="Day58 Constructors Coverage Results" MODIFIED="1739812858657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day36_Exception_Handling.coverage" NAME="Day36 Exception Handling Coverage Results" MODIFIED="1738257026868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day47_Exercise_4_Sols.coverage" NAME="Day47 Exercise 4 Sols Coverage Results" MODIFIED="1739042194178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day15_Time_Exercise.coverage" NAME="Day15 Time Exercise Coverage Results" MODIFIED="1737433037293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day1.coverage" NAME="Day1 Coverage Results" MODIFIED="1736443186090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day_1.coverage" NAME="Day 1 Coverage Results" MODIFIED="1736441358092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day12.coverage" NAME="Day12 Coverage Results" MODIFIED="1737302350133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day32_Set_Methods.coverage" NAME="Day32 Set Methods Coverage Results" MODIFIED="1738132708516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day12.coverage" NAME="Day12 Coverage Results" MODIFIED="1737302350133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day48_Local_Global_Variables.coverage" NAME="Day48 Local Global Variables Coverage Results" MODIFIED="1739046824057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day7.coverage" NAME="Day7 Coverage Results" MODIFIED="1737055225867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day18_WhileLoop.coverage" NAME="Day18 WhileLoop Coverage Results" MODIFIED="1737504657450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day31_Sets.coverage" NAME="Day31 Sets Coverage Results" MODIFIED="1738129866186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day18_WhileLoop.coverage" NAME="Day18 WhileLoop Coverage Results" MODIFIED="1737504657450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day44_Import_Works.coverage" NAME="Day44 Import Works Coverage Results" MODIFIED="1738776972129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day43_Virtual_Environment.coverage" NAME="Day43 Virtual Environment Coverage Results" MODIFIED="1738743069973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day59_Decorators.coverage" NAME="Day59 Decorators Coverage Results" MODIFIED="1739819104913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day71_Dir___dict___help_methods.coverage" NAME="Day71 Dir, _dict_, help methods Coverage Results" MODIFIED="1741495236711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day59_Decorators.coverage" NAME="Day59 Decorators Coverage Results" MODIFIED="1740941008838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day51_File_IO_seek__tell_other_functions.coverage" NAME="Day51 File IO seek, tell other functions Coverage Results" MODIFIED="1739106920302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day67_Exercise_7.coverage" NAME="Day67 Exercise 7 Coverage Results" MODIFIED="1741141912686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day2.coverage" NAME="Day2 Coverage Results" MODIFIED="1736664574812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day53_Map__Filter_and_Reduce.coverage" NAME="Day53 Map, Filter and Reduce Coverage Results" MODIFIED="1739347424726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day54_is_vs___.coverage" NAME="Day54 is vs == Coverage Results" MODIFIED="1739632907365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day45_if_name____main.coverage" NAME="Day45 if name == main Coverage Results" MODIFIED="1739032218111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day33_Dictionaries.coverage" NAME="Day33 Dictionaries Coverage Results" MODIFIED="1738134416442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day38_Custom_errors.coverage" NAME="Day38 Custom errors Coverage Results" MODIFIED="1738423626017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day60_Getters_and_Setters.coverage" NAME="Day60 Getters and Setters Coverage Results" MODIFIED="1739915394534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day60_Getters_and_Setters.coverage" NAME="Day60 Getters and Setters Coverage Results" MODIFIED="1740941164033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day31_Set_Methods.coverage" NAME="Day31 Set Methods Coverage Results" MODIFIED="1738131835208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day_28_F_Strings.coverage" NAME="Day 28 F Strings Coverage Results" MODIFIED="1738107353583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day46_os_Module.coverage" NAME="Day46 os Module Coverage Results" MODIFIED="1739034300337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day41_ShortHand_ifelse.coverage" NAME="Day41 ShortHand ifelse Coverage Results" MODIFIED="1738688979932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day13_StringMethods.coverage" NAME="Day13 StringMethods Coverage Results" MODIFIED="1737310098582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day6.coverage" NAME="Day6 Coverage Results" MODIFIED="1737031341202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day3.coverage" NAME="Day3 Coverage Results" MODIFIED="1737016098369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day6.coverage" NAME="Day6 Coverage Results" MODIFIED="1737031341202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day50_File_IO_Methods.coverage" NAME="Day50 File IO Methods Coverage Results" MODIFIED="1739104758284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day9.coverage" NAME="Day9 Coverage Results" MODIFIED="1737293198275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day57_Class_and_Objects.coverage" NAME="Day57 Class and Objects Coverage Results" MODIFIED="1739722768955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day16_MatchCase.coverage" NAME="Day16 MatchCase Coverage Results" MODIFIED="1737432976975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day61_Inheritance.coverage" NAME="Day61 Inheritance Coverage Results" MODIFIED="1739919734182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day30_Recursion.coverage" NAME="Day30 Recursion Coverage Results" MODIFIED="1738111251066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day37_Finally_Keyword.coverage" NAME="Day37 Finally Keyword Coverage Results" MODIFIED="1738421035960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day30_Recursion.coverage" NAME="Day30 Recursion Coverage Results" MODIFIED="1738111251066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day25_Tuples_Methods.coverage" NAME="Day25 Tuples Methods Coverage Results" MODIFIED="1737916699594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day44_Sukhdeep.coverage" NAME="Day44 Sukhdeep Coverage Results" MODIFIED="1738776382169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day49_File_IO.coverage" NAME="Day49 File IO Coverage Results" MODIFIED="1739062887552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day44_Sukhdeep.coverage" NAME="Day44 Sukhdeep Coverage Results" MODIFIED="1738776382169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day65_Static_Methods.coverage" NAME="Day65 Static Methods Coverage Results" MODIFIED="1740516212827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day56_OOPs.coverage" NAME="Day56 OOPs Coverage Results" MODIFIED="1739720426617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day4.coverage" NAME="Day4 Coverage Results" MODIFIED="1737027293574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day24_Tuples.coverage" NAME="Day24 Tuples Coverage Results" MODIFIED="1737857728302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1737945761378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day24_Tuples.coverage" NAME="Day24 Tuples Coverage Results" MODIFIED="1737857728302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day72_Super_Keyword.coverage" NAME="Day72 Super Keyword Coverage Results" MODIFIED="1741543704760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day27_Exercise_3.coverage" NAME="Day27 Exercise 3 Coverage Results" MODIFIED="1738021512627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Python$Day19_BreakContinue.coverage" NAME="Day19 BreakContinue Coverage Results" MODIFIED="1737589877613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day70_Class_Methods_As_Constructors.coverage" NAME="Day70 Class Methods As Constructors Coverage Results" MODIFIED="1741399921952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day69_Class_Methods.coverage" NAME="Day69 Class Methods Coverage Results" MODIFIED="1741200051436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day66_Instance_vs_Class_Variables.coverage" NAME="Day66 Instance vs Class Variables Coverage Results" MODIFIED="1740945381810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day42_Enumerate_Function.coverage" NAME="Day42 Enumerate Function Coverage Results" MODIFIED="1738739531259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Day19_BreakContinue.coverage" NAME="Day19 BreakContinue Coverage Results" MODIFIED="1737589877613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day11_String.coverage" NAME="Day11 String Coverage Results" MODIFIED="1737297359686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day23_Lists_Methods.coverage" NAME="Day23 Lists Methods Coverage Results" MODIFIED="1737835809925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Day52_Lambda_Functions.coverage" NAME="Day52 Lambda Functions Coverage Results" MODIFIED="1739209988735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

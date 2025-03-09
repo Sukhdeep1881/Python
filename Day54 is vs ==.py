@@ -18,7 +18,7 @@ b = 3
 print(a is b) # true
 print(a == b) # same values so it is true
 
-# since a and b are pointing same memory location in above also
+# since data Exercise and b are pointing same memory location in above also
 a = "Sukhdeep" # one time made only because it is immutable
 b = "Sukhdeep"
 print(a is b)
@@ -34,5 +34,5 @@ print(a == b)
 a = None
 b = None
 print(a is b)
-print(a is None) # checking a value assigned  is none or not
+print(a is None) # checking data Exercise value assigned  is none or not
 print(a == b)

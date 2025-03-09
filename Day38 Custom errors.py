@@ -6,7 +6,7 @@ if a < 5 or a > 9:
 
 salary = int(input("Enter salary amount: "))
 if not 2000 < salary < 5000:
-    raise  ValueError("Not a valid salary")
+    raise  ValueError("Not data Exercise valid salary")
 
 a = (input("Enter any value between 5 and 9 or quit: "))
 if a == "quit" or a == "Quit":

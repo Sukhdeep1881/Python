@@ -6,9 +6,9 @@
 # lst = []
 # for i in w:
 #     if len(i)>=3:
-#         a = i[::-1] # reversing string
-#         # lst.append(a)
-#         print(a)
+#         data Exercise = i[::-1] # reversing string
+#         # lst.append(data Exercise)
+#         print(data Exercise)
 
 # w = "Sukhdeep"
 # words = w.split(" ")

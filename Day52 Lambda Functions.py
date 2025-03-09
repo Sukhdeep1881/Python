@@ -1,7 +1,7 @@
-# lambda functions used as a mini functions
+# lambda functions used as data Exercise mini functions
 # there is no need to write def and return
 
-# for example in def function to write a short program
+# for example in def function to write data Exercise short program
 def double(x):  # this function is type in one line using lambda
     return x * 2
 print(double(5))

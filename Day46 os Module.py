@@ -1,6 +1,6 @@
 # only for reference everything in Garbage folder
 import os
-# os.mkdir("data") # creates a data function
+# os.mkdir("data") # creates data Exercise data function
 
 # this condition check first
 if not os.path.exists("data"): # check this file already created or not

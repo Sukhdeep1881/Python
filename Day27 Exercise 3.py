@@ -7,7 +7,7 @@ Questions = ["What is the capital of India?",
              "Who invented the telephone?",
              "Which element has the chemical symbol 'O'?",
              "Which Indian classical dance form originated in Kerala?",
-             "Who was the first woman to win a Nobel Prize?",
+             "Who was the first woman to win data Exercise Nobel Prize?",
              "What is the largest desert in the world?",
              "Who was the first President of the United States of America?"]
 

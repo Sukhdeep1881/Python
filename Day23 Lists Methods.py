@@ -14,7 +14,7 @@ print(l)
 l = [11,23,545,1,2,3,4,5,1,1]
 print(l.index(1)) # return the first appearing of the element in the list
 
-print(l.count(1)) # count the appearing of how many times a one element appears in the list
+print(l.count(1)) # count the appearing of how many times data Exercise one element appears in the list
 
 # m = l # not recommended because convert both list
 m = l.copy() # this is recommended because it does not change the assigning list

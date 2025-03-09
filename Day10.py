@@ -1,5 +1,5 @@
-# a = input("Enter your name: ")
-# print("My name is ",a)
+# data Exercise = input("Enter your name: ")
+# print("My name is ",data Exercise)
 
 x =input("Enter first number: ")
 y = input("Enter second number: ")

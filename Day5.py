@@ -5,7 +5,7 @@ Course: 100DaysPython
 """
 from pasta.base.annotate import statement
 
-print("Hey I am \"good boy\"\nand this viewer is also a good boy")
+print("Hey I am \"good boy\"\nand this viewer is also data Exercise good boy")
 
 # print("hello world")
 # # This is single line comment

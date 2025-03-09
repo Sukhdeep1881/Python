@@ -1,17 +1,17 @@
-def average(a,b):  # required Argument function where we need to give the value of a and b
+def average(a,b):  # required Argument function where we need to give the value of data Exercise and b
     print((a+b)/2)
 
 average(4,6)
 
-def average(a=4,b=1):  # default Argument function where we don't need to give the value of a and b it run by the given value in function
+def average(a=4,b=1):  # default Argument function where we don't need to give the value of data Exercise and b it run by the given value in function
     print((a+b)/2)
 
 average()
 
-def average(a=9,b=1):  # Keyword Argument function where we need to give the value of a or b where necessary
+def average(a=9,b=1):  # Keyword Argument function where we need to give the value of data Exercise or b where necessary
     print((a+b)/2)
 
-average(4) # Here a = 4 , but b = 1 given default
+average(4) # Here data Exercise = 4 , but b = 1 given default
 
 def average2(a=1,b=1):  # another keyword argument
     print((a+b)/2)

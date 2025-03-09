@@ -1,7 +1,7 @@
 # Getter and Setters
 
 
-# simple class with a constructor and a method
+# simple class with data Exercise constructor and data Exercise method
 # class MyClass1:
 #     def __init__(self, value):
 #         self._value = value

@@ -10,7 +10,7 @@ def greet(fx):
 
 # when we have arguments in function we use parameter *args and **kwargs
 def greets(fx):
-    def mfx(*args, **kwargs): # this thing is used as key value pairs to pass all using *args as a tuple and **Kwargs as a dictionary
+    def mfx(*args, **kwargs): # this thing is used as key value pairs to pass all using *args as data Exercise tuple and **Kwargs as data Exercise dictionary
         print("Good morning")
         fx(*args, **kwargs)
         print("Thanks for using")

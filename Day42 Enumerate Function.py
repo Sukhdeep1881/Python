@@ -2,10 +2,10 @@ marks = [12, 56, 32, 98, 12, 45, 1, 4]
 
 i = 0
 
-# for i in range(len(a)):
-#     print(i+1,a[i])
+# for i in range(len(data Exercise)):
+#     print(i+1,data Exercise[i])
 
-for index,mark in enumerate(marks): # enumerate function is a short way to print index of list, tuple etc. with value
+for index,mark in enumerate(marks): # enumerate function is data Exercise short way to print index of list, tuple etc. with value
     print(index,mark)
 
 for index,mark in enumerate(marks, start=1): # start is used to start imdex from custom value

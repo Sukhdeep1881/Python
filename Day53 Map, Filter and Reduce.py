@@ -1,4 +1,4 @@
-# MAP is a higher order function
+# MAP is data Exercise higher order function
 # map, filter and reduce all are higher order functions
 # higher order function means one function is inside another function
 def cube(x):
@@ -16,14 +16,14 @@ for items in l:
 print(newL)
 
 # using map with same function as above
-# newL = map(cube, l) # this will give a map object we have typecast in list or tuple or what we want
+# newL = map(cube, l) # this will give data Exercise map object we have typecast in list or tuple or what we want
 newL = list(map(cube, l))
 # we can use lambda for small function directly in map
 # newL = list(map(lambda x: x * x * x, l))
 print(newL)
 
 # FILTER
-# filter(predicable, list) predicable function acts as a boolean that return true or false
+# filter(predicable, list) predicable function acts as data Exercise boolean that return true or false
 
 def filter_function(a):
     return a > 4

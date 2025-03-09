@@ -1,7 +1,7 @@
 tup = (1,2,3,98,989,"green", True)
 print(type(tup),tup)
 
-# tup = (1) # this will print int type because it is a single element !!! to remove this add (1, comma) after it
+# tup = (1) # this will print int type because it is data Exercise single element !!! to remove this add (1, comma) after it
 # print(type(tup),tup)
 
 # tup = (1,2,3,23,98)
