@@ -5,59 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="888e846b-3174-4a49-8dec-a4b7ad9e99be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day11 String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day12 Slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day13 StringMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day14 ifelse-elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day15 Time Exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day16 MatchCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day17 ForLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day18 WhileLoop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day19 BreakContinue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day20 Functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day21 FunctionArguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day22 Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day23 Lists Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day24 Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25 Tuples Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day26 Exercise 2 Sols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day27 Exercise 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day28 F Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day29 DocStrings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day30 Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day31 Sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day32 Set Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day33 Dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day34 Dictionary Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day35 For Loop with else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day36 Exception Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day37 Finally Keyword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day38 Custom errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day39 Exercise 3 Solution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day40 Exercise 4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day41 ShortHand ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day42 Enumerate Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day43 Virtual Environment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day44 Import Works.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day44_Sukhdeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day45 if name == main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day45_Sukhdeep.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day46 os Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day47 Exercise 4 Sols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oslist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day73_Magic_or_Dunder_Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day73_Magic_or_Dunder_with_Import.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day75 Exercise7 Sols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day73 Magic or Dunder Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Day74 Method Overriding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,30 +28,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sukhdeep1881"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Sukhdeep1881/Python",
+    "accountId": "a229c855-47d5-437c-8765-27b579b9e41e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2sleQdDkvnE8P3yWVQiTf0iI3Ro" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "Python.oslist.executor": "Run",
-    "Python.rename.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oslist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rename.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Garbage" />
@@ -140,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1739034573598</updated>
       <workItem from="1739034574744" duration="2663000" />
+      <workItem from="1741901921206" duration="6000" />
     </task>
     <servers />
   </component>
